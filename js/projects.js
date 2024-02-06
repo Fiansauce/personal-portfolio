@@ -5,8 +5,7 @@ const projects = [
 		imageUrl: "flask-api.png",
 		technologies: ["Python", "Restful API"],
 		links: [
-			"https://replit.com/@MartinPedraza/basic-rest-flask#main.py",
-			"https://basic-rest-flask.martinpedraza.repl.co/",
+			"https://replit.com/@msofiane93/apijdm#main.py",
 		],
 	},
 	{
@@ -15,8 +14,7 @@ const projects = [
 		imageUrl: "front-01.png",
 		technologies: ["Html", "Css"],
 		links: [
-			"https://github.com/web-rest-api/tp1-site",
-			"https://web-rest-api.github.io/tp1-site/",
+			"https://replit.com/@msofiane93/FINAL#index.html",
 		],
 	},
 	{
@@ -25,8 +23,7 @@ const projects = [
 		imageUrl: "game-manager.png",
 		technologies: ["Bootstrap 5", "Javascript"],
 		links: [
-			"https://github.com/web-rest-api/tp-1-bootstrap",
-			"https://web-rest-api.github.io/tp-1-bootstrap/",
+			"https://replit.com/@msofiane93/BOOTSTRAPS#index.html",
 		],
 	},
 	{
