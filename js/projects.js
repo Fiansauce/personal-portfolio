@@ -6,6 +6,7 @@ const projects = [
 		technologies: ["Python", "Restful API"],
 		links: [
 			"https://replit.com/@msofiane93/apijdm#main.py",
+			"https://github.com/Fiansauce/DevWeb/blob/main/JDM_API.py",
 		],
 	},
 	{
@@ -15,6 +16,7 @@ const projects = [
 		technologies: ["Html", "Css"],
 		links: [
 			"https://replit.com/@msofiane93/FINAL#index.html",
+			"https://github.com/Fiansauce/DevWeb",
 		],
 	},
 	{
