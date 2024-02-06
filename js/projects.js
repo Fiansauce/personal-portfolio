@@ -1,7 +1,7 @@
 const projects = [
 	{
 		title: "Python Flask",
-		description: "lorem ipsum numero uno",
+		description: "Une api sympathique",
 		imageUrl: "flask-api.png",
 		technologies: ["Python", "Restful API"],
 		links: [
@@ -10,7 +10,7 @@ const projects = [
 	},
 	{
 		title: "Landing Page",
-		description: "lorem ipsum numero dos",
+		description: "Site internet bien classe",
 		imageUrl: "front-01.png",
 		technologies: ["Html", "Css"],
 		links: [
@@ -18,8 +18,8 @@ const projects = [
 		],
 	},
 	{
-		title: "Game Manager",
-		description: "lorem ipsum numero tres",
+		title: "Cars Manager",
+		description: "Vrroom vrrroom",
 		imageUrl: "game-manager.png",
 		technologies: ["Bootstrap 5", "Javascript"],
 		links: [
@@ -28,7 +28,7 @@ const projects = [
 	},
 	{
 		title: "Favorite Books",
-		description: "lorem ipsum numero tres",
+		description: "je sais pas lire",
 		imageUrl: "favorite-books.png",
 		technologies: ["Bootstrap 5", "Javascript", "Resful API"],
 		links: [
