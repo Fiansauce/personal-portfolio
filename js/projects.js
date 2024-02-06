@@ -30,7 +30,7 @@ const projects = [
 	},
 	{
 		title: "Favorite Books",
-		description: "je sais pas lire",
+		description: "eso no pode hacerlo...",
 		imageUrl: "favorite-books.png",
 		technologies: ["Bootstrap 5", "Javascript", "Resful API"],
 		links: [
@@ -40,7 +40,7 @@ const projects = [
 	},
 	{
 		title: "Users",
-		description: "Uthentication API",
+		description: ".. y eso tambien..",
 		imageUrl: "nodeJs-express.png",
 		technologies: ["NodeJs", "Express"],
 		links: [
