@@ -1,36 +1,37 @@
 const projects = [
 	{
 		title: "Python Flask",
-		description: "Une api sympathique",
+		description: "API Disney",
 		imageUrl: "flask-api.png",
 		technologies: ["Python", "Restful API"],
 		links: [
-			"https://replit.com/@msofiane93/apijdm#main.py",
-			"https://github.com/Fiansauce/DevWeb/blob/main/JDM_API.py",
+			"https://replit.com/@msofiane93/RaiponceAPI#main.py",
+			"https://replit.com/@msofiane93/RaiponceAPI#main.py",
 		],
 	},
 	{
 		title: "Landing Page",
-		description: "Site internet bien classe",
+		description: "Site internet Disney",
 		imageUrl: "front-01.png",
 		technologies: ["Html", "Css"],
 		links: [
-			"https://replit.com/@msofiane93/FINAL#index.html",
-			"https://github.com/Fiansauce/DevWeb",
+			"https://replit.com/@msofiane93/Site-Disney#index.html",
+			"https://replit.com/@msofiane93/Site-Disney#index.html",
 		],
 	},
 	{
-		title: "Cars Manager",
-		description: "Vrroom vrrroom",
+		title: "Movie Manager",
+		description: "Bootstrap exemple",
 		imageUrl: "game-manager.png",
 		technologies: ["Bootstrap 5", "Javascript"],
 		links: [
-			"https://replit.com/@msofiane93/BOOTSTRAPS#index.html",
+			"https://replit.com/@msofiane93/bootstrap#script.js",
+			"https://replit.com/@msofiane93/bootstrap#script.js",
 		],
 	},
 	{
 		title: "Favorite Books",
-		description: "eso no pode hacerlo...",
+		description: "non réalisé",
 		imageUrl: "favorite-books.png",
 		technologies: ["Bootstrap 5", "Javascript", "Resful API"],
 		links: [
@@ -40,7 +41,7 @@ const projects = [
 	},
 	{
 		title: "Users",
-		description: ".. y eso tambien..",
+		description: "non réalisé",
 		imageUrl: "nodeJs-express.png",
 		technologies: ["NodeJs", "Express"],
 		links: [
